@@ -1,5 +1,0 @@
-exclude: 
-  - main
-  - releases
-  - master
-delete_closed_pr: true
